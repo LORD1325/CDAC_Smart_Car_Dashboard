@@ -1,0 +1,4 @@
+../Core/Src/hcsr04.c:18:6:HCSR04_Init	8	static
+../Core/Src/hcsr04.c:24:6:HCSR04_Trigger	16	static
+../Core/Src/hcsr04.c:34:6:HAL_TIM_IC_CaptureCallback	16	static
+../Core/Src/hcsr04.c:71:10:HCSR04_Read_Distance_cm	8	static
